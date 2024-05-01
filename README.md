@@ -1,0 +1,1 @@
+I made this simulation based on the spain soccer league based on the top 3 teams. It has real madrid, barcelona, and girona. Each week depedning on if the teams wins loses or ties will be given points and the table will be changing..
